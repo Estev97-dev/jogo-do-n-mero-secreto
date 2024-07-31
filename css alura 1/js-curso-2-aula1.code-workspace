@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../js-curso-2-aula1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portifolio-HTML-e-CSS-aula_5"
+	}
+}
